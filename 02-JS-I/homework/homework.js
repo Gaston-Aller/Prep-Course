@@ -6,7 +6,7 @@ const nuevaString = 'Hola';
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 2;
 
-// Crea una variable booleana:
+// Crea una variable booleanaa:
 const nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:
